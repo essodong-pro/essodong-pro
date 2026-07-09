@@ -33,9 +33,8 @@ Web Development (WDD Series): Focused on front-end structures using HTML and CSS
 
 Software Development (CSE 210, 212, 340): Applied C# and JavaScript to build functional applications and solve complex logic problems.
 
-📊 GitHub Activity Highlights
-### 📊 GitHub Stats
-![Essodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=essodong-pro&show_icons=true&theme=radical)
-
-### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=essodong-pro&layout=compact&theme=radical)
+📊 GitHub Statistics Overview
+Primary Languages: Python, JavaScript, HTML5, CSS3, SQL, C#
+Core Competencies: Front-End Web Development, Data Analysis Scripting, Object-Oriented Programming (OOP)
+Tools & Platforms: Microsoft Azure, Git, GitHub
+Portfolio Focus: Responsive web applications and data-backed solutions developed through coursework at BYU–Idaho.
