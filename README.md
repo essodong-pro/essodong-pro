@@ -1,5 +1,8 @@
 Hi there! I'm Essodong N’GNAMA 👋
+
 <img src="profile.jpg" alt="Essodong N'GNAMA" width="200"/>
+
+
 🌟 About Me
 I am a software development student at BYU–Idaho, passionate about building responsive applications and data-backed solutions.
 
