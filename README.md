@@ -34,7 +34,11 @@ Web Development (WDD Series): Focused on front-end structures using HTML and CSS
 Software Development (CSE 210, 212, 340): Applied C# and JavaScript to build functional applications and solve complex logic problems.
 
 📊 GitHub Statistics Overview
+
 Primary Languages: Python, JavaScript, HTML5, CSS3, SQL, C#
+
 Core Competencies: Front-End Web Development, Data Analysis Scripting, Object-Oriented Programming (OOP)
+
 Tools & Platforms: Microsoft Azure, Git, GitHub
+
 Portfolio Focus: Responsive web applications and data-backed solutions developed through coursework at BYU–Idaho.
