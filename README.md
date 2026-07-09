@@ -34,4 +34,4 @@ Web Development (WDD Series): Focused on front-end structures using HTML and CSS
 Software Development (CSE 210, 212, 340): Applied C# and JavaScript to build functional applications and solve complex logic problems.
 
 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=essodong-pro&show_icons=true&theme=radical)
+![Essodong's Github Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=essodong-pro)
