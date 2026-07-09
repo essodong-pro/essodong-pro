@@ -34,9 +34,8 @@ Web Development (WDD Series): Focused on front-end structures using HTML and CSS
 Software Development (CSE 210, 212, 340): Applied C# and JavaScript to build functional applications and solve complex logic problems.
 
 📊 GitHub Activity Highlights
-Total Repositories: 8
+### 📊 GitHub Stats
+![Essodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=essodong-pro&show_icons=true&theme=radical)
 
-Languages Used: Python, JavaScript, HTML5, CSS3, SQL, C#
-
-Active Since: 2026
-
+### 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=essodong-pro&layout=compact&theme=radical)
